@@ -15,6 +15,8 @@ namespace Concept.Method {
             new Lesson9.Main().Run();
             new LessonA.Main().Run();
             new LessonB.Main().Run();
+            new LessonC.Main().Run();
+            new LessonD.Main().Run();
         }
     }
 }
